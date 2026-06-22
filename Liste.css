@@ -1,0 +1,57 @@
+.pas_de_retrait
+{
+list-style-position: inside;
+}
+.retrait
+{
+list-style-position:
+outside;
+} 
+.commence_a_zero
+{
+list-style-type: decimal-leading-zero;
+}
+.lettres_minuscules
+{
+list-style-type: lower-alpha;
+}
+.chiffres_romains
+{
+list-style-type: upper-roman;
+}
+.lettres_grecques
+{
+list-style-type: lower-greek;
+}
+/* Quelques styles supplémentairesjuste pour la présentation
+En plus ça vous fait quelques rappels;o) */
+h2
+{
+text-indent: 20px;
+font-family: Arial, Verdana, "Times New Roman", serif;
+}
+em
+{
+background-color: yellow;
+}
+strong
+{
+color: red;
+}
+ul /* Ma liste aura des puces en forme de dossiers */
+{
+list-style-image: url("dossier.png");
+}
+/* Juste pour améliorer la présentation : */
+a
+{
+color: blue;
+text-decoration: none;
+}
+a:hover
+{
+text-decoration: underline;
+}
+body{
+    background-color: rgb(143, 207, 186);
+}

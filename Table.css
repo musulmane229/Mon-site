@@ -1,0 +1,32 @@
+table{
+    border: 10px double black;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    border: 4px groove black;
+    border-collapse: collapse;
+    width: 55px;
+    height: 50px;
+}
+.moi{
+    text-align: center;
+    font-style: normal;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(25, 25, 219);
+}
+.toi{
+     rotate: -45deg;
+     color: rgb(223, 18, 18);
+}
+.nous{
+    rotate: 45deg;
+    color: rgb(10, 88, 198);
+}
+body{
+    background-image: url(11768944224286_103257.jpg);
+    width: 200px;
+    height: 150px;
+    color: rgb(25, 25, 26);
+}

@@ -1,0 +1,28 @@
+body{
+     background-color: rgba(236, 224, 148, 0.968);
+     text-align: justify;
+}
+.my_tof{
+    text-align: center;
+}
+.me{
+    display: flex;
+    justify-content: space-between;
+}
+.texte{
+    text-align: center;
+    font-size: large;
+}
+.Loisir{
+    text-align: normal;
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+    font-color: rgb(51, 51, 230);
+}
+ul{
+    list-style-type: none;
+}
+ol{
+    list-style-type: lower-roman;
+}

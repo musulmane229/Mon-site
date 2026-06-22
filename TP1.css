@@ -1,0 +1,21 @@
+blockquote{
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+    font-color: blue;
+}
+.moi{
+    font-style: italic;
+    font-weight: 300;
+    font-size: large;
+}
+h2{
+    text-align: center;
+    font-weight: 800;
+    font-style: italic;
+    font-size: large;
+}
+body{
+    background-color: rgb(225, 225, 136);
+}
